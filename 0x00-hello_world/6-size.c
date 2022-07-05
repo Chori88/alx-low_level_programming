@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-inti;
+int i;
 long int l;
 long long int ll;
 float d;
